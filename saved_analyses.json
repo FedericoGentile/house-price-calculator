@@ -1,0 +1,128 @@
+[
+  {
+    "id": "20260319164002163253",
+    "label": "Helle 5-Zimmer-Wohnung mit zwei Balkonen",
+    "url": "https://www.immobilienscout24.at/expose/6996d82eb11cc4c52fae72f8",
+    "purchase_price": 339000,
+    "down_payment": 150000,
+    "is_new_build": false,
+    "sqm": 0,
+    "rating": 4,
+    "notes": "",
+    "monthly_costs": [
+      {
+        "name": "Betriebskosten",
+        "amount": 223.1
+      },
+      {
+        "name": "Reparaturr\u00fccklage",
+        "amount": 145.5
+      },
+      {
+        "name": "Sonstige Kosten",
+        "amount": 43.46
+      },
+      {
+        "name": "VAT",
+        "amount": 26.66
+      }
+    ],
+    "monthly_total": 438.72,
+    "rates": {
+      "legal_fees": 1.5,
+      "property_transfer_tax": 3.5,
+      "registration_duty": 1.1,
+      "notary_fee": 2.0,
+      "agent_fee": 3.0,
+      "stamp_duty": 1.0,
+      "property_registration": 1.1,
+      "bank_fee": 1.0,
+      "court_fee": 1.2
+    },
+    "vats": {
+      "legal_fees": 20.0,
+      "property_transfer_tax": 0.0,
+      "registration_duty": 0.0,
+      "notary_fee": 20.0,
+      "agent_fee": 20.0,
+      "stamp_duty": 0.0,
+      "property_registration": 0.0,
+      "bank_fee": 0.0,
+      "court_fee": 0.0
+    },
+    "total_costs": 53313.0,
+    "final_purchase_price": 392313.0,
+    "cash_needed": 203313.0,
+    "mort_rate": 3.5,
+    "mort_years": 25,
+    "gross_income": 5000,
+    "monthly_rent": 1500,
+    "annual_appreciation": 2.0,
+    "expected_rent": 1200,
+    "mgmt_cost_pct": 10.0,
+    "saved_at": "2026-03-20 15:44"
+  },
+  {
+    "id": "20260320155005405171",
+    "label": "Familienfreundlich wohnen - Ger\u00e4umige 4 Zimmerwohnung mit Garten in Hallein",
+    "url": "https://www.immobilienscout24.at/expose/68f64e10065ebd7fa2b6b2b1",
+    "purchase_price": 563000,
+    "down_payment": 150000,
+    "is_new_build": false,
+    "sqm": 89,
+    "rating": 1,
+    "notes": "",
+    "monthly_costs": [
+      {
+        "name": "Betriebskosten",
+        "amount": 0.0
+      },
+      {
+        "name": "Reparaturr\u00fccklage",
+        "amount": 0.0
+      },
+      {
+        "name": "Sonstige Kosten",
+        "amount": 0.0
+      },
+      {
+        "name": "VAT",
+        "amount": 0.0
+      }
+    ],
+    "monthly_total": 0.0,
+    "rates": {
+      "legal_fees": 1.5,
+      "property_transfer_tax": 3.5,
+      "registration_duty": 1.1,
+      "notary_fee": 2.0,
+      "agent_fee": 3.0,
+      "stamp_duty": 1.0,
+      "property_registration": 1.1,
+      "bank_fee": 1.0,
+      "court_fee": 1.2
+    },
+    "vats": {
+      "legal_fees": 20.0,
+      "property_transfer_tax": 0.0,
+      "registration_duty": 0.0,
+      "notary_fee": 20.0,
+      "agent_fee": 20.0,
+      "stamp_duty": 0.0,
+      "property_registration": 0.0,
+      "bank_fee": 0.0,
+      "court_fee": 0.0
+    },
+    "total_costs": 90721.0,
+    "final_purchase_price": 653721.0,
+    "cash_needed": 240721.0,
+    "mort_rate": 3.5,
+    "mort_years": 25,
+    "gross_income": 5000,
+    "monthly_rent": 1500,
+    "annual_appreciation": 2.0,
+    "expected_rent": 1200,
+    "mgmt_cost_pct": 10.0,
+    "saved_at": "2026-03-20 15:50"
+  }
+]
